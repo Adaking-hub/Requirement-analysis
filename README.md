@@ -84,7 +84,7 @@ What are Use Case Diagrams?
 
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 
-![Use case diagram](/Requirement-analysis/images/UseCase.png)
+![Use case diagram](images/UseCase.png)
 
 Benefits of Use Case Diagrams:
 
